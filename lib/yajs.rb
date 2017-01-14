@@ -1,0 +1,3 @@
+module Yajs
+  # Your code goes here...
+end
